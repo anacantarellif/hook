@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { useTema } from './TemaContexto';
+import { useTema } from '../components/TemaContexto';
 import '../App.css'; 
 
 const ComponentePrincipal = () => {
